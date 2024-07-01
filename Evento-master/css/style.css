@@ -255,7 +255,7 @@ input[type='submit']:active {
 }
 
 .header-menu > .box {
-  background: #C5EFF7;
+  background: #efefefd6;
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -352,6 +352,11 @@ About us ========*/
   position: relative;
   top: 70px;
 }
+#logo-image{
+  height: 200px;
+  width: 200px;
+}
+#about-us-image
 
 .progress-bar {
   background: rgb(124, 207, 223);
@@ -587,8 +592,8 @@ background: none;
     float: left;
     font-size: 1.8rem;
     height: 6rem;
-    color: black;
-    line-height: 4rem;
+    color: rgb(62, 8, 107);
+    line-height: 3rem;
     font-size: 3.8rem;
     font-weight: 700;
     padding: 1rem 0;
@@ -596,6 +601,7 @@ background: none;
 
 .navbar-brand span {
     margin-right: 10px;
+    margin-bottom: 3rem;
     color: #bbbac0;
 }
 
@@ -604,7 +610,7 @@ background: none;
 }
 
 .navbar-brand.logo > img {
-    max-height: 40px;
+    max-height: 80px;
     width: auto;
 }
 
